@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+     color: rgb(27, 27, 27);
+     font-family: 'Zen Antique Soft', serif;
+     font-weight: bold;
+     padding: 30px 0 30px 0;
+}
+p{
+    text-align: center; 
+    color: rgb(27, 26, 26);
+    font-family: 'Zen Antique Soft', serif;
+    padding: 30px 0 30px 0;
+    font-size: 1.5rem;
+}
+body{
+    background-color:#e4dbdb;
+}
+img{
+    border-radius: 10px;
+}
